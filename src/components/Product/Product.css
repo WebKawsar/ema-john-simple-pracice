@@ -1,0 +1,24 @@
+
+.product {
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    padding: 12px 0 18px;
+}
+
+.product-info {
+    margin-left: 20px;
+    color: black;
+}
+.product-info h5 {
+    color: blue;
+    font-size: 18px;
+    font-weight: 400;
+}
+.product-info button {
+    width: 200px;
+    height: 32px;
+    background-color: rgb(250, 206, 95);
+    border: 1px solid black;
+    border-radius: 5px;
+    cursor: pointer;
+}
